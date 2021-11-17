@@ -12,7 +12,6 @@ Download the [Python 3](https://python.org) installer package from the official 
 Run the following in the terminal to install the Pyperclip module. It allows you copy your password easily.
 ```
 pip install pyperclip
-
 ```
 
 
