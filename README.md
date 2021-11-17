@@ -40,7 +40,7 @@ Program detects if you didn't filled any blanks and shows attention message box.
   <img src="https://i.ibb.co/Wtbf6xy/pass-empty.png" alt="passwordmanager"/>
 </p>
 
-At the end, you can check the ```database.txt``` file and look your passwords.
+At the end, you can check the ```database.txt``` file to look your passwords.
 
 
 <p align="center">
